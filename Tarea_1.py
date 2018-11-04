@@ -114,11 +114,6 @@ if __name__ == "__main__":
     a = CommercialDescriptors()
     b = TelevisionDescriptors()
 
-    '''Create descriptors
-    '''
-    #create_all_commercial_descriptors()
-    #create_all_television_descriptors()
-
     '''Load descriptores
     '''
     list_of_descriptors, list_of_targets = a.load_all_descriptors()

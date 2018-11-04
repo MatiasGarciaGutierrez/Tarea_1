@@ -52,6 +52,15 @@ Por ejemplo:
 python3 Tarea_1.py --src mega-2014_04_25.mp4
 ```
 
+## Resultados
+
+| Television          | Correctas | Incorrectas | IoU  | Final |
+|---------------------|-----------|-------------|------|-------|
+| mega-2014_04_10.mp4 | 13/13     | 0/13        | 69.7 | 100   |
+| mega-2014_04_11.mp4 | 24/28     | 0/28        | 68.9 | 85.7  |
+|                     |           |             |      |       |
+
+
 ## Contacto
 
 Matías García - matias.garcia.gu@gmail.com.
