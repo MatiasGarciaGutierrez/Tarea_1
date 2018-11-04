@@ -34,8 +34,11 @@ python3 create_folder.py
 2. Transferir los archivos de television a la carpeta "/television" y los archivos de 
 comerciales a la carpeta "/commerciales"
 
-3. Crear todos los descriptores de comerciales y televisión utilizando las funciones 
-    `create_all_commercial_descriptors()` y `create_all_television_descriptors()`
+3. Crear todos los descriptores de comerciales y televisión utilizando `create_descriptors.py`
+
+```
+python3 create_descriptors.py
+```
 
 4. Usar el script `Tarea_1.py`:
 
