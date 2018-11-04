@@ -1,4 +1,4 @@
-# Tarea_1
+# Tarea 1 - MIR
 El fin de este programa es detectar las apariciones de comerciales 
 en cierto tiempo de la televisión abierta.
 
