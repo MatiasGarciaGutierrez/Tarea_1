@@ -1,14 +1,21 @@
-# Tarea_1b
-Este programa trata de identificar comerciales en televisión a través de descriptores de audio.
-Se utiliza como descriptor el MFCC.
-
-## Uso
-
-Para utilizar esta tarea se debe....
+# Tarea_1
+El fin de este programa es detectar las apariciones de comerciales 
+en cierto tiempo de la televisión abierta.
 
 ## Dependencias
 
-Las dependencias son ...
+Las dependencias son:
+
+* NumPy
+* scikit-learn
+* OpenCV 3
+
+##Formato
+
+Esta implementación utiliza las siguientes carpetas 
+## Uso
+
+Para utilizar esta tarea se debe ejecutar `renders`
 
 `renders`
 
